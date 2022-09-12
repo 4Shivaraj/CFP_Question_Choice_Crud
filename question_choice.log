@@ -1,0 +1,23 @@
+
+2022-09-12 21:02:09,962 (question_log) INFO {'question_text': 'Hi moksha, How are you?'}
+2022-09-12 21:02:10,015 (question_log) INFO Hi moksha, How are you?
+2022-09-12 21:11:13,168 (question_log) INFO {'question_text': 'Hi moksha, How are you?'}
+2022-09-12 21:11:13,216 (question_log) DEBUG Hi moksha, How are you?
+2022-09-12 21:11:13,216 (question_log) DEBUG question saved successfully
+2022-09-12 21:11:19,249 (question_log) DEBUG {'question': [{'id': 11, 'question_text': 'Hi, How are you', 'published_date': datetime.datetime(2022, 9, 10, 9, 10, 45, 191176, tzinfo=datetime.timezone.utc)}, {'id': 6, 'question_text': 'Hi shivaraj, How are you', 'published_date': datetime.datetime(2022, 9, 11, 17, 58, 24, 932440, tzinfo=datetime.timezone.utc)}, {'id': 7, 'question_text': 'Hi parth, How are you', 'published_date': datetime.datetime(2022, 9, 11, 17, 58, 58, 209778, tzinfo=datetime.timezone.utc)}, {'id': 13, 'question_text': 'Hi laksh, How are you', 'published_date': datetime.datetime(2022, 9, 11, 18, 2, 49, 97639, tzinfo=datetime.timezone.utc)}, {'id': 14, 'question_text': 'Hi laksh, How are you', 'published_date': datetime.datetime(2022, 9, 12, 6, 22, 58, 989310, tzinfo=datetime.timezone.utc)}, {'id': 15, 'question_text': 'Hi laksh, How are you', 'published_date': datetime.datetime(2022, 9, 12, 6, 24, 5, 73757, tzinfo=datetime.timezone.utc)}, {'id': 16, 'question_text': 'Hi moksh, How are you', 'published_date': datetime.datetime(2022, 9, 12, 14, 28, 39, 780617, tzinfo=datetime.timezone.utc)}, {'id': 17, 'question_text': 'Hi moksh, How are you', 'published_date': datetime.datetime(2022, 9, 12, 14, 29, 13, 747057, tzinfo=datetime.timezone.utc)}, {'id': 19, 'question_text': 'Hi moksha, How are you', 'published_date': datetime.datetime(2022, 9, 12, 14, 30, 11, 79944, tzinfo=datetime.timezone.utc)}, {'id': 20, 'question_text': 'Hi moksha, How are you', 'published_date': datetime.datetime(2022, 9, 12, 14, 30, 41, 321965, tzinfo=datetime.timezone.utc)}, {'id': 21, 'question_text': 'Hi moksha, How are you', 'published_date': datetime.datetime(2022, 9, 12, 14, 31, 20, 889125, tzinfo=datetime.timezone.utc)}, {'id': 22, 'question_text': 'Hi moksha, How are you', 'published_date': datetime.datetime(2022, 9, 12, 14, 31, 48, 514423, tzinfo=datetime.timezone.utc)}, {'id': 23, 'question_text': 'Hi moksha, How are you', 'published_date': datetime.datetime(2022, 9, 12, 14, 32, 25, 382417, tzinfo=datetime.timezone.utc)}, {'id': 24, 'question_text': 'Hi shivaraj, How are you', 'published_date': datetime.datetime(2022, 9, 12, 14, 32, 42, 179653, tzinfo=datetime.timezone.utc)}, {'id': 25, 'question_text': 'Hi shivaraj, How are you', 'published_date': datetime.datetime(2022, 9, 12, 14, 33, 6, 889186, tzinfo=datetime.timezone.utc)}, {'id': 18, 'question_text': 'Hi moksha, How are you', 'published_date': datetime.datetime(2022, 9, 12, 14, 29, 31, 636301, tzinfo=datetime.timezone.utc)}, {'id': 26, 'question_text': 'Hi moksha, How are you?', 'published_date': datetime.datetime(2022, 9, 12, 15, 32, 9, 963301, tzinfo=datetime.timezone.utc)}, {'id': 27, 'question_text': 'Hi moksha, How are you?', 'published_date': datetime.datetime(2022, 9, 12, 15, 41, 13, 169080, tzinfo=datetime.timezone.utc)}]}
+2022-09-12 21:11:19,257 (question_log) DEBUG retrieved all question successfully
+2022-09-12 21:11:24,847 (question_log) INFO {'question_id': 25, 'question_text': 'Hi shivaraj, How are you'}
+2022-09-12 21:11:24,902 (question_log) DEBUG Hi shivaraj, How are you
+2022-09-12 21:11:24,903 (question_log) DEBUG question successfully updated
+2022-09-12 21:11:32,924 (question_log) INFO Hi shivaraj, How are you
+2022-09-12 21:11:32,933 (question_log) DEBUG Hi shivaraj, How are you
+2022-09-12 21:11:32,933 (question_log) DEBUG question successfully deleted
+2022-09-12 21:11:38,963 (question_log) DEBUG choice successfully saved
+2022-09-12 21:11:44,426 (question_log) DEBUG {'choices': [{'id': 5, 'question_id': 6, 'choice_text': 'not_much', 'votes': 12}]}
+2022-09-12 21:11:44,426 (question_log) DEBUG  retreived choice successfully
+2022-09-12 21:12:02,241 (question_log) DEBUG choice successfully updated
+2022-09-12 21:12:11,716 (question_log) DEBUG choice successfully deleted
+2022-09-12 21:14:36,840 django.utils.autoreload INFO D:\CFP_Assignment\demo_app\users\views.py changed, reloading.
+2022-09-12 21:14:44,229 django.utils.autoreload INFO D:\CFP_Assignment\demo_app\users\views.py changed, reloading.
+2022-09-12 21:15:20,116 django.utils.autoreload INFO D:\CFP_Assignment\demo_app\users\views.py changed, reloading.
+2022-09-12 21:22:04,882 django.utils.autoreload INFO D:\CFP_Assignment\demo_app\users\views.py changed, reloading.
